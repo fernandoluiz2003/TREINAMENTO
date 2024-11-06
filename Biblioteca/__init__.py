@@ -1,0 +1,1 @@
+from .requisicao import requisicao_para_uma_api
